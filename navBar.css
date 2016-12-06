@@ -46,3 +46,9 @@ ul {
       width: 0px;
       /*border: 1px solid black;*/
     }
+.top {
+     position:fixed;
+     display: inline-block;
+     background: -webkit-linear-gradient(top, #0075CF 10%, #001685 100%);
+     color: E8E8E8;
+}
