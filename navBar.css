@@ -10,7 +10,7 @@ ul {
       height: 40px;
       position: fixed;
       z-index: 200;
-      background: aqua;
+      background: #002AFF;
       overflow: hidden;
       text-decoration: none;
     }
