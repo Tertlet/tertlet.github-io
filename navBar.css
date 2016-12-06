@@ -32,10 +32,10 @@ ul {
       background: darkslateblue;
       color: cadetblue
     }
-    .active {
+    /*.active {
       background: violet;
       color: dodgerblue;
-    }
+    }*/
     #list {
       height: 40px;
       width: 0px;
