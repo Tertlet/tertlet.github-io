@@ -29,12 +29,12 @@ ul {
       font-size: 20px;
       /*border: 1px solid black;*/
     }
-    li:hover:not(.active) {
-      background: darkslateblue;
-      color: cadetblue
+    li:hover {
+      background: -webkit-linear-gradient(top, #0075CF 10%, #001685 100%);
+      color: cadetblue;
     }
     .active {
-      background: violet;
+      background: -webkit-linear-gradient(top, #0075CF 10%, #001685 100%);
       color: dodgerblue;
     }
     #list {
