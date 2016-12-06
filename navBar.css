@@ -12,6 +12,7 @@ ul {
       z-index: 200;
       background: aqua;
       overflow: hidden;
+      text-decoration: none;
     }
     ul:hover {
       height: 100%;
