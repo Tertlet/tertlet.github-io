@@ -31,7 +31,7 @@ ul {
       border: 1px groove 696969;
     }
     li:hover {
-      background: -webkit-linear-gradient(top, #0075CF 10%, #001685 100%);
+      background: #001685;
       color: E8E8E8;
     }
     .active {
