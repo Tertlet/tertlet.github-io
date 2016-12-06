@@ -37,6 +37,10 @@ ul {
       background: -webkit-linear-gradient(top, #0075CF 10%, #001685 100%);
       color: E8E8E8;
     }
+    li:first-child {
+      background: -webkit-linear-gradient(top, #0075CF 10%, #001685 100%);
+      color: E8E8E8;
+    }
     #list {
       height: 40px;
       width: 0px;
