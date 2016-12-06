@@ -14,6 +14,7 @@ ul {
       background: #002AFF;
       overflow: hidden;
       text-decoration: none;
+      color: E8E8E8;
     }
     ul:hover {
       height: 100%;
